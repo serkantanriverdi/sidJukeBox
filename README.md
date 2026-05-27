@@ -19,11 +19,14 @@ Requires Xcode Command Line Tools. Produces a universal binary (arm64 + x86_64) 
 - 100 tracks ranked by community consensus (HVSC, Lemon64)
 - Real track durations from HVSC Songlengths database
 - Shuffle, sequential and repeat playback modes
-- Custom playlists with persistence (UserDefaults)
+- Custom playlists — create, save and manage (persisted across sessions)
 - Volume control
-- Menu bar (tray) support — keeps playing in background
-- About panel with retro styling
+- Menu bar (tray) support — minimize to tray, control playback from menu bar, keeps playing in background
+- Sort by ranking or alphabetically
+- Right-click context menu to add/remove tracks from playlists
+- About panel with retro C64 styling
 - Keyboard shortcuts: Cmd+P (play/pause), Cmd+N (next), Cmd+B (previous), Shift+Cmd+S (stop)
+- Signed and notarized by VIV TEKNOLOJI LIMITED SIRKETI
 
 ## Files
 
