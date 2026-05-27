@@ -2,7 +2,7 @@
 
 A native macOS player for Commodore 64 SID music. Emulates the MOS 6581/8580 SID chip using the cSID engine by Hermit.
 
-![SID Jukebox](jukeboxc64.png)
+![SID Jukebox](sid-jukebox-screenshot.png)
 
 [Download v1.0](https://github.com/serkantanriverdi/sidJukeBox/releases/download/v1.0/SIDJukebox_v1.0.dmg) — Signed & notarized
 
