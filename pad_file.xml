@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+    <MASTER_PAD_VERSION_INFO>
+        <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+        <MASTER_PAD_EDITOR>Hand-coded</MASTER_PAD_EDITOR>
+        <MASTER_PAD_INFO>Portable Application Description</MASTER_PAD_INFO>
+    </MASTER_PAD_VERSION_INFO>
+    <Company_Info>
+        <Company_Name>Serkan Tanriverdi</Company_Name>
+        <Address_1>Bahcelievler Mahallesi 319 Cadde E Blok 35E/B26</Address_1>
+        <City_Town>Ankara</City_Town>
+        <State_Province>Ankara</State_Province>
+        <Zip_Postal_Code>06830</Zip_Postal_Code>
+        <Country>Turkiye</Country>
+        <Company_WebSite_URL>https://github.com/serkantanriverdi/sidJukeBox</Company_WebSite_URL>
+        <Contact_First_Name>Serkan</Contact_First_Name>
+        <Contact_Last_Name>Tanriverdi</Contact_Last_Name>
+        <Contact_Email>stanriverdi2024@icloud.com</Contact_Email>
+    </Company_Info>
+    <Program_Info>
+        <Program_Name>SID Jukebox</Program_Name>
+        <Program_Version>1.0</Program_Version>
+        <Program_Release_Month>05</Program_Release_Month>
+        <Program_Release_Day>27</Program_Release_Day>
+        <Program_Release_Year>2026</Program_Release_Year>
+        <Program_Cost_Dollars>0</Program_Cost_Dollars>
+        <Program_Cost_Other_Code />
+        <Program_Cost_Other />
+        <Program_Type>Freeware</Program_Type>
+        <Program_Release_Status>New Release</Program_Release_Status>
+        <Program_Install_Support>No Install Support</Program_Install_Support>
+        <Program_OS_Support>Mac OS X,macOS</Program_OS_Support>
+        <Program_Language>English</Program_Language>
+        <Program_Change_Info>Initial release</Program_Change_Info>
+        <Program_Specific_Category>Audio</Program_Specific_Category>
+        <Program_Category_Class>Audio &amp; Multimedia::Music Players</Program_Category_Class>
+        <Program_System_Requirements>macOS 10.13 or later, Apple Silicon or Intel</Program_System_Requirements>
+        <File_Info>
+            <File_Size_Bytes>4194304</File_Size_Bytes>
+            <File_Size_K>4096</File_Size_K>
+            <File_Size_MB>4</File_Size_MB>
+        </File_Info>
+        <Expire_Info>
+            <Has_Expire_Info>N</Has_Expire_Info>
+        </Expire_Info>
+    </Program_Info>
+    <Program_Descriptions>
+        <English>
+            <Keywords>sid,commodore 64,c64,chiptune,sid player,music player,macos,6581,8580,retro,rob hubbard,martin galway,hvsc</Keywords>
+            <Char_Desc_45>Commodore 64 SID music player for macOS</Char_Desc_45>
+            <Char_Desc_80>Native macOS player for Commodore 64 SID music with 100 curated tracks</Char_Desc_80>
+            <Char_Desc_250>SID Jukebox plays Commodore 64 SID music natively on macOS. Emulates the MOS 6581/8580 SID chip using the cSID engine. Ships with 100 tracks ranked by community consensus from HVSC and Lemon64. Signed and notarized. Universal binary.</Char_Desc_250>
+            <Char_Desc_450>SID Jukebox is a native macOS application that brings the iconic sound of the Commodore 64 back to life. It emulates the MOS 6581/8580 SID chip using the cSID engine by Hermit. The app comes with 100 curated tracks from the golden era of C64 gaming, ranked by community polls from HVSC and Lemon64. Features shuffle, sequential and repeat playback, custom playlists, volume control, and menu bar support for background playback.</Char_Desc_450>
+            <Char_Desc_2000>SID Jukebox is a native macOS application that brings the iconic sound of the Commodore 64 back to life. It emulates the MOS 6581/8580 SID chip using the cSID engine by Hermit, delivering authentic chiptune playback without the need for a full C64 emulator.
+
+The app comes with a carefully curated collection of 100 SID tracks from the golden era of Commodore 64 gaming. The playlist is ranked based on community polls and voting from HVSC (High Voltage SID Collection) and Lemon64, starting with legendary titles like Commando, Monty on the Run, Last Ninja 2, International Karate, Wizball, Great Giana Sisters and Turrican, all the way down to hidden gems and deep cuts from the C64 library.
+
+Each track uses its real duration sourced from the HVSC Songlengths database, so songs end naturally instead of looping forever.
+
+Features include three playback modes (sequential, shuffle, repeat), custom playlists that persist across sessions, volume control, menu bar support for background playback, sorting by ranking or alphabetically, right-click context menu for playlist management, and keyboard shortcuts.
+
+Composers featured include Rob Hubbard, Martin Galway, Ben Daglish, Jeroen Tel, Tim Follin, Chris Huelsbeck, Matt Gray, David Whittaker, Reyn Ouwehand, Fred Gray, Mark Cooksey and many others who defined the sound of an entire generation of gaming.
+
+Built as a single Objective-C file using Cocoa, with no external frameworks or dependencies. Universal binary that runs natively on both Apple Silicon and Intel Macs. Code signed and notarized by VIV TEKNOLOJI LIMITED SIRKETI through the Apple Developer Program. Open source under the MIT license.</Char_Desc_2000>
+        </English>
+    </Program_Descriptions>
+    <Web_Info>
+        <Application_URLs>
+            <Application_Info_URL>https://github.com/serkantanriverdi/sidJukeBox</Application_Info_URL>
+            <Application_Order_URL />
+            <Application_Screenshot_URL>https://raw.githubusercontent.com/serkantanriverdi/sidJukeBox/main/sid-jukebox-screenshot.png</Application_Screenshot_URL>
+            <Application_Icon_URL>https://raw.githubusercontent.com/serkantanriverdi/sidJukeBox/main/icon_32.png</Application_Icon_URL>
+            <Application_XML_File_URL>https://raw.githubusercontent.com/serkantanriverdi/sidJukeBox/main/pad_file.xml</Application_XML_File_URL>
+        </Application_URLs>
+        <Download_URLs>
+            <Primary_Download_URL>https://github.com/serkantanriverdi/sidJukeBox/releases/download/v1.0/SIDJukebox_v1.0.dmg</Primary_Download_URL>
+            <Secondary_Download_URL>https://github.com/serkantanriverdi/sidJukeBox/releases/download/v1.0/SIDJukebox_v1.0.dmg</Secondary_Download_URL>
+        </Download_URLs>
+    </Web_Info>
+</XML_DIZ_INFO>
